@@ -1,4 +1,4 @@
-# BP-WelcomeTitle-1.0.0_Minecraft-1.17
+# BP-WelcomeTitle-1.0.0_Minecraft-1.21.1
 
 Preview:
 
